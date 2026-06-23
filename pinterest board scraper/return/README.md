@@ -7,4 +7,4 @@ after that, make a cookies.txt inside of the same directory where you have the f
 # usage
 `python main.py --name [pinterest username] --board [board name]`
 optionally, if you want to return all of them  
-simply at the end add `-all`
+simply at the end add `--all`
